@@ -1,0 +1,12 @@
+{
+    "name": "A Test",
+    "symbol": "A Test",
+    "description": "A Test",
+    "image": "https://www.bogatepemandira.com/images/urunler/test-urun--145-16082397730-1000.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "A Test"
+      }
+    ]
+  }
